@@ -1,0 +1,7 @@
+{
+  "inicial": "/",
+  "login": "/login",
+  "logout": "/logout",
+  "public": "/home",
+  "menu": [{ "label": "Personas", "path": "/" }]
+}

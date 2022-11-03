@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="45px" height="45px" viewBox="0 0 45 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/24px/up2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M23,3 C34.04,3 43,11.96 43,23 C43,34.04 34.04,43 23,43 C11.96,43 3,34.04 3,23 C3,11.96 11.96,3 23,3 Z" id="path-1"></path>
+    </defs>
+    <g id="icon/24px/up2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill="#006FB3" xlink:href="#path-1"></use>
+        <polygon id="Path" fill="#FFFFFF" mask="url(#mask-2)" points="23.1080976 15 13 25.3385614 15.3754029 27.7681233 23.1080976 19.8763548 30.8407923 27.7681233 33.2161953 25.3385614"></polygon>
+    </g>
+</svg>
