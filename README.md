@@ -2,19 +2,23 @@
 
 Arquetipo de Frontend el cual utiliza los lineamientos de gobierno digital para el estilado.
 
-## Available Scripts
+vista previa ya desplegado en plataforma aws amplify https://arquetipogd.jsoft.cl/
 
-In the project directory, you can run:
+### Pasos para iniciar
 
-### `npm start`
+instalar Node 16 o superior
 
+#### Instalar dependencias
+`npm install`
+
+#### Iniciar proyecto modo desarrollo
+`npm start`
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Abrir [http://localhost:3000](http://localhost:3000) para ver en el navegador.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### Empaquetar para producción
+`npm run build`
 
-### `npm run build`
 
 # Estilo basado en Bootstrap
 
